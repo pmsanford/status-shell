@@ -1,3 +1,3 @@
-from dummy_object import DummyObject
+from uptime import UptimeCommand
 
-command_list = [DummyObject()]
+command_list = [UptimeCommand()]
